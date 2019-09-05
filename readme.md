@@ -2,7 +2,7 @@ The XML files are source files for the mod. They replace the file that that are 
 
 Todo:
 
-- [ ] Find good banners and portraits.
+- [ ] Find good banners and portraits for ui.
 - [ ] Become artistic.
 - [ ] Rename British to America in homecity creator ui.
 - [ ] Reference correct string in string table so that the explorer names are not natives.
