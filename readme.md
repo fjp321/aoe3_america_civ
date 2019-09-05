@@ -4,5 +4,5 @@ Todo:
 
 - [ ] Find good banners and portraits for ui.
 - [ ] Become artistic.
-- [ ] Rename British to America in homecity creator ui.
+- [ ] create installer in c#.
 - [ ] Reference correct string in string table so that the explorer names are not natives.
